@@ -2,7 +2,7 @@
 
 Diogo Jacinto
 
-`2241541`
+``
 
 ### Linguagens de programação conhecidas:
 * C
